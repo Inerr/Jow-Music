@@ -1,0 +1,4 @@
+#command
+#embed
+title: "Idioma establecido"
+description: "Se establecio el idioma **%{language}** para el servidor\n\n*Nota: Todas las traducciones fueron hechas con el traductor de google, en caso de encontrar algún falló no dudes en reportarlo en el [servidor de soporte](https://discord.gg/ZWWhd55T9m)*"

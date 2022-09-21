@@ -1,0 +1,4 @@
+out: "Comando desactualizado."
+user_perms: "No tienes suficientes permisos."
+bot_perms: "No tengo suficientes permisos."
+dev_perms: "No eres un desarrollador del bot."

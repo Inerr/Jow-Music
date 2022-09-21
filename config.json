@@ -1,0 +1,17 @@
+{
+    "token": "OTc2NjIxMDQ2MDY3MjMyODE4.G9M84d.jpybbg9aqYVH6B9zU6KPIuZr0N2mrw_XvYWxiM",
+    "nodes": [
+        {
+        "id": "main",
+        "host": "001.falk.de.optik.host",
+        "port": 28875,
+        "password": "jowmusic",
+        "retryAmount": 15,
+        "retryDelay": 6000
+    }
+],
+    "color": "2f3136",
+    "emojis": {
+        "wrong": "<:x_:1017580544571220068>"
+    }
+}

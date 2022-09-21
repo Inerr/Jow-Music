@@ -1,0 +1,19 @@
+setup_queue_msg: "***__Song List__***:\nJoin a voice channel and add songs by typing their URL or name here."
+
+setup_play_author: "There are no songs playing."
+setup_play_desc: "> ***[Invite me](https://discord.com/api/oauth2/authorize?client_id=1008877181939757056&permissions=277062470976&scope=bot%20applications.commands) • [Tunik Studios](https://discord.gg/ZWWhd55T9m)***"
+
+setup_topic: "***Controls***:\n\n⏯ • ***Pause/Resume player***.\n⬅ • ***Play previous song***.\n⏹ • ** *Stop music***.\n➡ • ***Skip song***.\n🔁 • ***Turn loop on/off***.\n\n***Note: Do not delete any bot message in this channel for the request system to work properly***."
+setup_msg: "***Request channel set to*** %{channel}"
+
+setup_delete: "***Setup successfully deleted***"
+setup_already: "The request channel is already configured."
+no_data: "There is no request channel configured."
+
+setup_author: "Playing..."
+setup_desc: "***[%{title}](%{url}) [%{duration}]*** • %{requester}"
+setup_footer: "Songs: %{songs} | Duration: %{duration}"
+
+setup_content: "***__Song List__***:"
+setup_content_queue: "***%{index}. %{title} [%{duration}]*** • %{requester}"
+setup_content_empty: "Join a voice channel and add songs by typing their URL or name here."

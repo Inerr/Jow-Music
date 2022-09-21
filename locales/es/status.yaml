@@ -1,0 +1,4 @@
+main_embed: "***Presiona un botón para ir a la información solicitada***\n\n***Estadistícas***:\n***Servidores: %{servers}***\n***Usuarios: %{users}***"
+
+bot_status_desc: "***Información y estado del bot***"
+music_nodes_desc: "***Información y estado del nodo***"

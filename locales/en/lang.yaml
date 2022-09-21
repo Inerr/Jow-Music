@@ -1,0 +1,4 @@
+#command
+#embed
+title: "Language set"
+description: "The language **%{language}** was established for the server\n\n*Note: All translations were made with the google translator, if you find any errors do not hesitate to report it on the [server support](https://discord.gg/ZWWhd55T9m)*"

@@ -1,0 +1,13 @@
+no_player: "Não há músicas tocando neste servidor."
+no_voice: "Você deve estar em um canal de voz ou o mesmo que eu."
+
+switch_pause: "pausado"
+switch_resume: "retomada"
+paused: "***O jogador foi %{switch}***"
+
+switch_enable: "habilitado"
+switch_disable: "desabilitado"
+
+loop: "***Loop foi %{switch}***"
+
+volume: "***O volume do jogador foi definido para %{vol}%***"

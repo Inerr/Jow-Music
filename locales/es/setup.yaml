@@ -1,0 +1,19 @@
+setup_queue_msg: "***__Lista de canciones__***:\nÚnete a un canal de voz y agrega canciones escribiendo su URL o nombre aquí."
+
+setup_play_author: "No hay canciones reproduciendose."
+setup_play_desc: "> ***[Invitame](https://discord.com/api/oauth2/authorize?client_id=1008877181939757056&permissions=277062470976&scope=bot%20applications.commands) • [Tunik Studios](https://discord.gg/ZWWhd55T9m)***"
+
+setup_topic: "***Controles***:\n\n⏯ • ***Pausa/Reanuda el reproductor***.\n⬅ • ***Reproduce la canción anterior***.\n⏹ • ***Para la música***.\n➡ • ***Omite la canción***.\n🔁 • ***Activa/Desactiva el bucle***.\n\n***Nota: No elimines ningún mensaje del bot en este canal para que el sistema de solicitudes funcione correctamente***."
+setup_msg: "***Canal de solicitudes establecido en*** %{channel}"
+
+setup_delete: "***Configuración correctamente eliminada***"
+setup_already: "El canal de solicitudes ya se encuentra configurado."
+no_data: "No hay un canal de solicitudes configurado."
+
+setup_author: "Reproduciendo..."
+setup_desc: "***[%{title}](%{url}) [%{duration}]*** • %{requester}"
+setup_footer: "Canciones: %{songs} | Duración: %{duration}"
+
+setup_content: "***__Lista de canciones__***:"
+setup_content_queue: "***%{index}. %{title} [%{duration}]*** • %{requester}"
+setup_content_empty: "Únete a un canal de voz y agrega canciones escribiendo su URL o nombre aquí."

@@ -1,0 +1,34 @@
+no_previous: "No previous songs found."
+previous_added: "***Playing previous song***"
+
+skipped: "***Song skipped***"
+
+stopped: "***Music stopped playing***"
+
+queue_desc: "***Playing***:\n***%{title} [%{duration}]*** • %{requester}\n\n***Rest of list***:% {rest}"
+queue_footer: "Page: %{page} of %{pages} | Songs: %{queue_length} | Total Duration: %{duration}"
+queue_nofound: "There are only %{pages} pages available."
+
+load_fail: "An error occurred while trying to add the song."
+no_match: "No results were found for your search."
+
+requester: "Requester:"
+queue_length: "Songs on hold:"
+duration: "Duration:"
+queue_duration: "Total duration:"
+
+action_by: "Action by: %{user}"
+
+song_added: "***Added song %{title} [%{duration}]***"
+playlist_added: "***Added %{songs} songs from: %{playlist}***"
+
+now_playing: "You can see the current song on %{channel}."
+playing: "***Playing %{title} [%{duration}]***"
+
+replay: "***Replaying %{title}***"
+
+no_queue_length: "The queue is empty."
+queue_clear: "***Queue cleared***"
+
+no_skipto: "Song number is invalid."
+skipto: "***Skipped to song number %{position}***"

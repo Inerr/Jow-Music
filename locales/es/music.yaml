@@ -1,0 +1,34 @@
+no_previous: "No se encontraron canciones anteriores."
+previous_added: "***Reproduciendo la canción anterior***"
+
+skipped: "***Se saltó la canción***"
+
+stopped: "***Se dejó de reproducir música***"
+
+queue_desc: "***Sonando***:\n***%{title} [%{duration}]*** • %{requester}\n\n***Resto de la lista***:%{rest}"
+queue_footer: "Página: %{page} de %{pages} | Canciones: %{queue_length} | Duración total: %{duration}"
+queue_nofound: "Solo hay %{pages} páginas disponibles."
+
+load_fail: "Ocurrio un error al intentar agregar la canción."
+no_match: "No se encontraron resultados para tu busqueda."
+
+requester: "Solicitante:"
+queue_length: "Canciones en espera:"
+duration: "Duración:"
+queue_duration: "Duración total:"
+
+action_by: "Acción de: %{user}"
+
+song_added: "***Se agrego la canción %{title} [%{duration}]***"
+playlist_added: "***Agregadas %{songs} canciones de: %{playlist}***"
+
+now_playing: "Puedes ver la canción actual en %{channel}."
+playing: "***Sonando %{title} [%{duration}]***"
+
+replay: "***Volviendo a reproducir %{title}***"
+
+no_queue_length: "La lista de espera está vacía."
+queue_clear: "***Se vacío la cola***"
+
+no_skipto: "El número de canción es invalido."
+skipto: "***Se salto a la canción número %{position}***"

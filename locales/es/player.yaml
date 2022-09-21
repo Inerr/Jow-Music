@@ -1,0 +1,13 @@
+no_player: "No hay canciones reproduciendose en este servidor."
+no_voice: "Debes estar en un canal de voz o en el mismo donde estoy yo."
+
+switch_pause: "pausado"
+switch_resume: "reanudado"
+paused: "***El reproductor ha sido %{switch}***"
+
+switch_enable: "activado"
+switch_disable: "desactivado"
+
+loop: "***El bucle fue %{switch}***"
+
+volume: "***El volumen del reproductor fue establecido a %{vol}%***"

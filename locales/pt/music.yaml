@@ -1,0 +1,34 @@
+no_previous: "Nenhuma música anterior encontrada."
+previous_added: "***Reproduzindo música anterior***"
+
+skipped: "***Música ignorada***"
+
+stopped: "***Música parou de tocar***"
+
+queue_desc: "***Jogando***:\n***%{title} [%{duration}]*** • %{requester}\n\n***Resto da lista***:%{rest}"
+queue_footer: "Página: %{page} de %{pages} | Músicas: %{queue_length} | Duração total: %{duration}"
+queue_nofound: "Existem apenas %{pages} páginas disponíveis."
+
+load_fail: "Ocorreu um erro ao tentar adicionar a música."
+no_match: "Nenhum resultado foi encontrado para sua pesquisa."
+
+requester: "Solicitante:"
+queue_length: "Músicas em espera:"
+duration: "Duração:"
+queue_duration: "Duração total:"
+
+action_by: "Ação por: %{user}"
+
+song_added: "***Adicionada música %{title} [%{duration}]***"
+playlist_added: "***Adicionadas %{songs} músicas de: %{playlist}***"
+
+now_playing: "Você pode ver a música atual em %{channel}."
+playing: "***Reproduzindo %{title} [%{duration}]***"
+
+replay: "***Replaying %{title}***"
+
+no_queue_length: "A fila está vazia."
+queue_clear: "***Fila limpa***"
+
+no_skipto: "O número da música é inválido."
+skipto: "***Pulado para o número da música %{position}***"

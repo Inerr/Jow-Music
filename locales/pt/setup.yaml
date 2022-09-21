@@ -1,0 +1,19 @@
+setup_queue_msg: "***__Lista de músicas__***:\nEntre em um canal de voz e adicione músicas digitando sua URL ou nome aqui."
+
+setup_play_author: "Não há músicas tocando."
+setup_play_desc: "> ***[Convide-me](https://discord.com/api/oauth2/authorize?client_id=1008877181939757056&permissions=277062470976&scope=bot%20applications.commands) • [Tunik Studios](https://discord.gg/ZWWhd55T9m)***"
+
+setup_topic: "***Controles***:\n\n⏯ • ***Pausar/Retomar player***.\n⬅ • ***Tocar música anterior***.\n⏹ • ** *Parar música***.\n➡ • ***Pular música***.\n🔁 • ***Ativar/desativar o loop***.\n\n***Observação: não exclua nenhuma mensagem de bot em este canal para que o sistema de requisições funcione corretamente***."
+setup_msg: "***Canal de solicitação definido como*** %{channel}"
+
+setup_delete: "***Configuração excluída com sucesso***"
+setup_already: "O canal de solicitação já está configurado."
+no_data: "Não há canal de solicitação configurado."
+
+setup_author: "Jogando..."
+setup_desc: "***[%{title}](%{url}) [%{duration}]*** • %{requester}"
+setup_footer: "Músicas: %{songs} | Duração: %{duration}"
+
+setup_content: "***__Lista de músicas__***:"
+setup_content_queue: "***%{index}. %{title} [%{duration}]*** • %{requester}"
+setup_content_empty: "Entre em um canal de voz e adicione músicas digitando sua URL ou nome aqui."

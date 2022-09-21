@@ -1,0 +1,30 @@
+view_embed_footer: "Page: %{page} of %{pages} | Playlists: %{songs}"
+view_embed_pl: "***%{index}. %{name} • [%{tracks} songs] • Created ago: %{date} • Privacy: %{privacy}***"
+view_embed_author: "Playlists by: %{user}"
+
+no_owner: "You can't manage this playlist because you don't own it."
+limit_tracks: "You can only add a maximum of 200 songs"
+
+songs_added: "***%{songs} songs added to: %{playlist}***"
+
+playlist_exists: "A playlist with that name already exists."
+playlist_limit: "You can only create a maximum of 10 playlists."
+
+created: "***A new playlist was created with the name: %{name}***"
+
+no_playlist: "There is no playlist with that name."
+deleted: "***Playlist %{name}*** was deleted"
+
+private_playlist: "You can't play this playlist because it's private."
+loaded: "***Playing %{songs} songs from: %{playlist}***"
+load_fail: "An error occurred while trying to play the playlist."
+load_match: "The playlist is invalid."
+
+invalid_position: "No song found at that position."
+removed: "***Removed song at position number %{position} from: %{playlist}***"
+
+view_private: "You can't view details of this playlist because it's private."
+view_lists: "***%{index}. %{title} [%{duration}]***"
+
+privated_playlist: "***Playlist is now private***"
+public_playlist: "***Playlist is now public***"

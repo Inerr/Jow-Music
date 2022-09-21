@@ -1,0 +1,32 @@
+view_embed_footer: "Página: %{page} de %{pages} | Listas de reproducción: %{songs}"
+view_embed_pl: "***%{index}. %{name} • [%{tracks} canciones] • Creada hace: %{date} • Privacidad: %{privacy}***"
+view_embed_author: "Listas de reproducción de: %{user}"
+
+no_owner: "No puedes gestionar esta lista de reproducción porque no eres el dueño."
+limit_tracks: "Solo puedes agregar un máximo de 200 canciones"
+
+songs_added: "***Se agregaron %{songs} canciones a: %{playlist}***"
+
+playlist_exists: "Ya existe una lista de reproducción con ese nombre."
+playlist_limit: "Solo puedes crear un máximo de 10 listas de reproducción."
+
+created: "***Se creo una nueva lista de reproducción con el nombre: %{name}***"
+
+no_playlist: "No existe una lista de reproducción con ese nombre."
+deleted: "***Se elimino la lista de reproducción %{name}***"
+
+private_playlist: "No puedes reproducir esta lista de reproducción porque es privada."
+loaded: "***Reproduciendo %{songs} canciones de: %{playlist}***"
+load_fail: "Ocurrio un error al intentar reproducir la lista de reproducción."
+load_match: "La lista de reproducción es invalida."
+
+invalid_position: "No se encontro ninguna canción es esa posición."
+removed: "***Se removío la canción en la posición número %{position} de: %{playlist}***"
+
+view_private: "No puedes ver detalles de esta lista de reproducción porque es privada."
+view_lists: "***%{index}. %{title} [%{duration}]***"
+
+privated_playlist: "***La lista de reproducción ahora es privada***"
+public_playlist: "***La lista de reproducción ahora es pública***"
+
+view_embed_pl2: "***%{index}. %{name} • [%{tracks} canciones] • Creada hace: %{date}***"

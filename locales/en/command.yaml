@@ -1,0 +1,4 @@
+out: "Command out of date."
+user_perms: "You don't have enough permissions."
+bot_perms: "I don't have enough permissions."
+dev_perms: "You are not a bot developer."
