@@ -19,7 +19,7 @@ Este repositorio usa erela.js como reproductor, si no tienes idea de como usarlo
 - Multiples idiomas
 
 ## Credits
-Los siguientes repositorios me ayudaron a la creación de este reprositorio.
+Los siguientes repositorios me ayudaron a la creación de este repositorio.
 - [Adivise](https://github.com/Adivise/NanoSpacePlus)
 - [Lyxcode](https://www.youtube.com/c/lyxcode)
 - [notscrappie](https://github.com/notscrappie/evelyn-music-module)
