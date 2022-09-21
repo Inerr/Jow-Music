@@ -1,11 +1,11 @@
 {
-    "token": "OTc2NjIxMDQ2MDY3MjMyODE4.G9M84d.jpybbg9aqYVH6B9zU6KPIuZr0N2mrw_XvYWxiM",
+    "token": "UR TOKEN",
     "nodes": [
         {
         "id": "main",
-        "host": "001.falk.de.optik.host",
-        "port": 28875,
-        "password": "jowmusic",
+        "host": "lavalink.oops.wtf",
+        "port": 2000,
+        "password": "www.freelavalink.ga",
         "retryAmount": 15,
         "retryDelay": 6000
     }
